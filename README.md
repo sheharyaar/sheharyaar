@@ -30,3 +30,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheharyaar&theme=tokyonight" alt="sheharyaar" /></p>
 
+# My Presentations
+- Introduction to Kernel Module Programming (KMP) - [here](./KMP.pdf)
+- Memory Allocator in C - [here](./Memory Allocators.pdf)
