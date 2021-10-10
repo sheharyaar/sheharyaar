@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheharyaar&theme=nord" alt="sheharyaar" /></a> </p>
 
-- 🔭 I’m currently working on **Operating System and Linux Programming**
+- 🔭 I’m currently working on **Projects like QR Decoder and my own Discord from scratch**
+- 
+- 🤝 I’m looking for help with **Electronics tasks**
 
-- 🌱 I’m currently learning **Inter Process Communication (IPC)**
-
-- 🤝 I’m looking for help with **Managing anxiety**
-
-- 👨‍💻 All of my projects are available at [https://github.com/sheharyaar](https://github.com/sheharyaar)
+- 👨‍💻 All of my projects are available at [https://github.com/sheharyaar](https://github.com/sheharyaar/Projects)
 
 - 📫 How to reach me **sheharyaar48@gmail.com**
 
