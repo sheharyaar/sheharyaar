@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheharyaar&theme=nord" alt="sheharyaar" /></a> </p>
 
 - 🔭 I’m currently working on **Projects like QR Decoder and my own Discord from scratch**
-- 
+
 - 🤝 I’m looking for help with **Electronics tasks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sheharyaar](https://github.com/sheharyaar/Projects)
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_pass3nger_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pass3nger_" height="30" width="40" /></a>
+<a href="https://instagram.com/-sheharyaar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sheharyaar_" height="30" width="40" /></a>
 <a href="https://discord.gg/VpCYk2WtTa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lagnos#9003" height="30" width="40" /></a>
 </p>
 
