@@ -33,5 +33,5 @@
 - Memory Allocator in C - [here](./Memory%20Allocators.pdf)
 
 # My Projects
-- Exif Data Extractor in C - [Checkout heree](https://github.com/sheharyaar/exif-data-extractor)
+- Exif Data Extractor in C - [Checkout here](https://github.com/sheharyaar/exif-data-extractor)
 - QR-Code Decoder (Ongoing)
