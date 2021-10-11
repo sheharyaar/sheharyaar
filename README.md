@@ -31,3 +31,7 @@
 # My Presentations
 - Introduction to Kernel Module Programming (KMP) - [here](./KMP.pdf)
 - Memory Allocator in C - [here](./Memory%20Allocators.pdf)
+
+# My Projects
+- Exif Data Extractor in C - [Checkout heree](https://github.com/sheharyaar/exif-data-extractor)
+- QR-Code Decoder (Ongoing)
