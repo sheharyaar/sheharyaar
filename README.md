@@ -34,4 +34,4 @@
 
 # My Projects
 - Exif Data Extractor in C - [Checkout here](https://github.com/sheharyaar/exif-data-extractor)
-- QR-Code Decoder (Ongoing)
+- Concurrent Web Server in C (Ongoing)
