@@ -34,4 +34,4 @@
 
 # My Projects
 - Exif Data Extractor in C - [Checkout here](https://github.com/sheharyaar/exif-data-extractor)
-- Concurrent Web Server in C (Ongoing)
+- Concurrent Web Server in C - [Checkout here](https://github.com/sheharyaar/web-server-in-c)
