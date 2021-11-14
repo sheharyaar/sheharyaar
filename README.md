@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheharyaar&theme=nord" alt="sheharyaar" /></a> </p>
 
-- 🔭 I’m currently working on **Projects like QR Decoder and my own Discord from scratch**
+- 🔭 I’m currently working on **Computer Networks**
 
 - 🤝 I’m looking for help with **Electronics tasks**
 
