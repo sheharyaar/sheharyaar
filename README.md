@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </head>
 <p align="center"> <img src="wall.gif" alt="wall" /></p>
-<h3 align="center">A passionate developer from IIT Kharagpur!</h3>
+<h3 align="center">Hi There!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheharyaar&label=Profile%20views&color=0e75b6&style=flat" alt="sheharyaar" /> </p>
 
