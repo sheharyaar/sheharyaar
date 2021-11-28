@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheharyaar&label=Profile%20views&color=0e75b6&style=flat" alt="sheharyaar" /> </p>
 
-- 🔭 I’m currently working on **Computer Networks**
-
-- 🤝 I’m looking for help with **Electronics tasks**
-
-- 👨‍💻 All of my projects are available at [https://github.com/sheharyaar](https://github.com/sheharyaar/Projects)
+- 👨‍💻 All of my projects are available at [https://github.com/sheharyaar/#my-projects](https://github.com/sheharyaar/#my-projects)
 
 - 📫 How to reach me **sheharyaar48@gmail.com**
 
