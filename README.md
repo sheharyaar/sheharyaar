@@ -16,9 +16,6 @@
 <a href="https://discord.gg/VpCYk2WtTa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lagnos#9003" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <i class="devicon-c-plain-wordmark"></i> asdasd<i class="devicon-cplusplus-plain-wordmark"></i><i class="devicon-go-original-wordmark"></i><i class="devicon-linux-plain"></i><i class="devicon-github-original"></i><i class="devicon-git-plain"></i><i class="devicon-slack-plain-wordmark"></i><i class="devicon-vim-plain"></i> </p>
-
 # My Presentations
 - Introduction to Kernel Module Programming (KMP) - [here](./KMP.pdf)
 - Memory Allocator in C - [here](./Memory%20Allocators.pdf)
@@ -31,6 +28,7 @@
 - TCP and TCP Congestion Implementation over UDP
 - Video CDN over Internet using custom TCP Implementation
 - KOSS Server Revamp
+- Play with Git
 - CSGO Demos Manager
 - SLAM Project revival and transfer ownership
 - GSoC Project Exploration
