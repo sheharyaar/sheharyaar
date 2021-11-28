@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <p align="center"> <img src="wall.gif" alt="wall" /></p>
 <h3 align="center">A passionate developer from IIT Kharagpur!</h3>
 
@@ -14,7 +15,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<p align="left"> <i class="devicon-c-plain-wordmark"></i> <i class="devicon-cplusplus-plain-wordmark"></i><i class="devicon-go-original-wordmark"></i><i class="devicon-linux-plain"></i><i class="devicon-github-original"></i><i class="devicon-git-plain"></i><i class="devicon-slack-plain-wordmark"></i><i class="devicon-vim-plain"></i> </p>
 
 # My Presentations
 - Introduction to Kernel Module Programming (KMP) - [here](./KMP.pdf)
@@ -23,3 +24,11 @@
 # My Projects
 - Exif Data Extractor in C - [Checkout here](https://github.com/sheharyaar/exif-data-extractor)
 - Concurrent Web Server in C - [Checkout here](https://github.com/sheharyaar/web-server-in-c)
+
+# Projects Queue
+- TCP and TCP Congestion Implementation over UDP
+- Video CDN over Internet using custom TCP Implementation
+- KOSS Server Revamp
+- CSGO Demos Manager
+- SLAM Project revival and transfer ownership
+- GSoC Project Exploration
