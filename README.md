@@ -21,8 +21,10 @@
 - Memory Allocator in C - [here](./Memory%20Allocators.pdf)
 
 # My Projects
-- Exif Data Extractor in C - [Checkout here](https://github.com/sheharyaar/exif-data-extractor)
+
+- Documentation and solutions for IIT KGP Internet problems - [checkout here](https://github.com/sheharyaar/iit-kgp-network)
 - Concurrent Web Server in C - [Checkout here](https://github.com/sheharyaar/web-server-in-c)
+- Exif Data Extractor in C - [Checkout here](https://github.com/sheharyaar/exif-data-extractor)
 - Doorbell Telegram BOT in Python - [Checkout here](https://github.com/sheharyaar/DoorBOT-Telegram)
 
 # Current Project
