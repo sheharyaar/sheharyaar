@@ -25,11 +25,13 @@
 - Concurrent Web Server in C - [Checkout here](https://github.com/sheharyaar/web-server-in-c)
 - Doorbell Telegram BOT in Python - [Checkout here](https://github.com/sheharyaar/DoorBOT-Telegram)
 
+# Current Project
+
+- Implementation of Lightway based VPN - [checkout here](https://github.com/sheharyaar/lagnos-vpn)
+
 # Projects Queue
+
+- GSoC Listing and Proposal
 - TCP and TCP Congestion Implementation over UDP
 - Video CDN over Internet using custom TCP Implementation
-- KOSS Server Revamp
-- Play with Git
-- CSGO Demos Manager
-- SLAM Project revival and transfer ownership
-- GSoC Project Exploration
+- Virtualisation
