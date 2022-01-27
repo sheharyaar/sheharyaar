@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sheharyaar48@gmail.com**
 
-[![Sheharyaar's github activity graph](https://activity-graph.herokuapp.com/graph?username=sheharyaar&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sheharyaar's github activity graph](https://activity-graph.herokuapp.com/graph?username=sheharyaar&theme=rogue)](https://github.com/sheharyaar#my-presentations)
 
 # My Presentations
 - Introduction to Kernel Module Programming (KMP) - [here](./KMP.pdf)
