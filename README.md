@@ -36,7 +36,7 @@
 - Virtualisation
 - Contribution to Asus Kernel
 
-# Current Deployments
+# My Deployments
 
 - IIT KGP Network Repository - [https://iitkgp-network.netlify.app/](https://iitkgp-network.netlify.app/)
 - Github Web Page - [sheharyaar.github.io](https://sheharyaar.github.io/)
