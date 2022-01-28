@@ -21,7 +21,8 @@
 - Documentation and solutions for IIT KGP Internet problems - [checkout here](https://github.com/sheharyaar/iit-kgp-network)
 - Concurrent Web Server in C - [Checkout here](https://github.com/sheharyaar/web-server-in-c)
 - Exif Data Extractor in C - [Checkout here](https://github.com/sheharyaar/exif-data-extractor)
-- Doorbell Telegram BOT in Python - [Checkout here](https://github.com/sheharyaar/DoorBOT-Telegram)
+- SLAM (Source Live Audio Mixer) working Reboot - [checkout here](https://github.com/sheharyaar/SLAM-Reboot/)
+- Doorbell BOT in Python and Telegram Messaging - [Checkout here](https://github.com/sheharyaar/DoorBOT-Telegram)
 
 # Current Project
 
@@ -29,8 +30,13 @@
 
 # Projects Queue
 
-- GSoC Listing and Proposal
-- TCP and TCP Congestion Implementation over UDP
+- TCP and TCP Congestion Implementation over Raw Sockets
 - Video CDN over Internet using custom TCP Implementation
+- BPF and IO_uring 
 - Virtualisation
 - Contribution to Asus Kernel
+
+# Current Deployments
+
+- IIT KGP Network Repository - [https://iitkgp-network.netlify.app/](https://iitkgp-network.netlify.app/)
+- Github Web Page - [sheharyaar.github.io](https://sheharyaar.github.io/)
