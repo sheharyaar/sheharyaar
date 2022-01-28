@@ -19,7 +19,7 @@
 # My Projects
 
 - Documentation and solutions for IIT KGP Internet problems - [checkout here](https://github.com/sheharyaar/iit-kgp-network)
-- Concurrent Web Server in C - [Checkout here](https://github.com/sheharyaar/web-server-in-c)
+- Concurrent Web Server and REST in C - [Checkout here](https://github.com/sheharyaar/web-server-in-c)
 - Exif Data Extractor in C - [Checkout here](https://github.com/sheharyaar/exif-data-extractor)
 - SLAM (Source Live Audio Mixer) working Reboot - [checkout here](https://github.com/sheharyaar/SLAM-Reboot/)
 - Doorbell BOT in Python and Telegram Messaging - [Checkout here](https://github.com/sheharyaar/DoorBOT-Telegram)
