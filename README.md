@@ -6,13 +6,17 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </head>
 <p align="center"> <img src="sheharyaar-zoomed-cropped.png" alt="wall"/></p>
-<h3 align="center">Hi There!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheharyaar&label=Profile%20views&color=0e75b6&style=flat" alt="sheharyaar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheharyaar&label=Profile%20views&color=0e75b6&&style=flat-square" alt="sheharyaar" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/sheharyaar/#my-projects](https://github.com/sheharyaar/#my-projects)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://lagnos.medium.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheharyaar48@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lagnos/)
+[![Twitter](https://img.shields.io/badge/lagnos-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_lagnos)
+[![YouTube](https://img.shields.io/badge/lagn0s%20gaming-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCThLNTE_zdGUZg7ajouIk-g)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/lagnos_andras)
 
-- 📫 How to reach me **sheharyaar48@gmail.com**
+# Skills
 
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/sheharyaar/C-Programming-Cookbook/)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -28,20 +32,9 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/8qjo103jdug4dxduuxgxf7k56?si=a7ccc1e9176f4a31)
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://lagnos.medium.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheharyaar48@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lagnos/)
-[![Twitter](https://img.shields.io/badge/lagnos-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_lagnos)
-[![YouTube](https://img.shields.io/badge/lagn0s%20gaming-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCThLNTE_zdGUZg7ajouIk-g)
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/lagnos_andras)
+# Current Project
 
-
-
-[![Sheharyaar's github activity graph](https://activity-graph.herokuapp.com/graph?username=sheharyaar&theme=rogue)](https://github.com/sheharyaar#my-presentations)
-
-# My Presentations
-- Introduction to Kernel Module Programming (KMP) - [here](./KMP.pdf)
-- Memory Allocator in C - [here](./Memory%20Allocators.pdf)
+- Implementation of Lightway based VPN - [checkout here](https://github.com/sheharyaar/lagnos-vpn)
 
 # My Projects
 
@@ -51,10 +44,6 @@
 - SLAM (Source Live Audio Mixer) working Reboot - [checkout here](https://github.com/sheharyaar/SLAM-Reboot/)
 - Doorbell BOT in Python and Telegram Messaging - [Checkout here](https://github.com/sheharyaar/DoorBOT-Telegram)
 
-# Current Project
-
-- Implementation of Lightway based VPN - [checkout here](https://github.com/sheharyaar/lagnos-vpn)
-
 # Projects Queue
 
 - TCP and TCP Congestion Implementation over Raw Sockets
@@ -63,7 +52,15 @@
 - Virtualisation
 - Contribution to Asus Kernel
 
+# My Presentations
+- Introduction to Kernel Module Programming (KMP) - [here](./KMP.pdf)
+- Memory Allocator in C - [here](./Memory%20Allocators.pdf)
+
 # My Deployments
 
 - IIT KGP Network Repository - [https://iitkgp-network.netlify.app/](https://iitkgp-network.netlify.app/)
 - Github Web Page - [sheharyaar.github.io](https://sheharyaar.github.io/)
+
+# Contributions
+
+[![Sheharyaar's github activity graph](https://activity-graph.herokuapp.com/graph?username=sheharyaar&theme=rogue)](https://github.com/sheharyaar#my-presentations)
