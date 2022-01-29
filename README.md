@@ -1,6 +1,3 @@
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
-
 <head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </head>
@@ -50,7 +47,12 @@
 - Video CDN over Internet using custom TCP Implementation
 - BPF and IO_uring 
 - Virtualisation
-- Contribution to Asus Kernel
+
+
+Dream Projects
+
+- Create a Read Dead Redemption Based web app
+- Create an Assassin's Creed Based web app
 
 # My Presentations
 - Introduction to Kernel Module Programming (KMP) - [here](./KMP.pdf)
