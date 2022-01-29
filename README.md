@@ -14,6 +14,8 @@
 [![Twitter](https://img.shields.io/badge/lagnos-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_lagnos)
 [![YouTube](https://img.shields.io/badge/lagn0s%20gaming-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCThLNTE_zdGUZg7ajouIk-g)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/lagnos_andras)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/8qjo103jdug4dxduuxgxf7k56?si=a7ccc1e9176f4a31)
+
 
 # Skills
 
@@ -29,7 +31,6 @@
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) 
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/8qjo103jdug4dxduuxgxf7k56?si=a7ccc1e9176f4a31)
 
 # Current Project
 
