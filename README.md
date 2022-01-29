@@ -53,6 +53,7 @@ Dream Projects
 
 - Create a Read Dead Redemption Based web app
 - Create an Assassin's Creed Based web app
+- Craete a cross app for these ♥️
 
 # My Presentations
 - Introduction to Kernel Module Programming (KMP) - [here](./KMP.pdf)
