@@ -47,6 +47,7 @@
 
 - TCP and TCP Congestion Implementation over Raw Sockets
 - Video CDN over Internet using custom TCP Implementation
+- Interesting KGP wide project :)
 - BPF and IO_uring 
 - Virtualisation
 
