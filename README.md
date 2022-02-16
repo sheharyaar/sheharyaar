@@ -45,8 +45,9 @@
 
 # Projects Queue
 
-- TCP and TCP Congestion Implementation over Raw Sockets
-- Video CDN over Internet using custom TCP Implementation
+- QUIC Implementation
+- Video CDN over Internet using QUIC
+- Peer 2 Peer based project
 - Interesting KGP wide project :)
 - BPF and IO_uring 
 - Virtualisation
