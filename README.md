@@ -34,6 +34,7 @@
 # Current Project
 
 - Implementation of Lightway based VPN - [checkout here](https://github.com/sheharyaar/lagnos-vpn)
+- MoozikConenkt - [checkout here](https://github.com/sheharyaar/MoozikConnekt)
 
 # My Projects
 
@@ -50,7 +51,9 @@
 - Peer 2 Peer based project
 - Interesting KGP wide project :)
 - BPF and IO_uring 
-- Virtualisation
+- Containers and Hypervisors
+- Hyperledger and Block Chain
+- Web 3.0
 
 
 Dream Projects
