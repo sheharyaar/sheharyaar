@@ -34,7 +34,7 @@
 # Current Project
 
 - Implementation of Lightway based VPN - [checkout here](https://github.com/sheharyaar/lagnos-vpn)
-- MoozikConenkt - [checkout here](https://github.com/sheharyaar/MoozikConnekt)
+- MoozikConnekt - [checkout here](https://github.com/sheharyaar/MoozikConnekt)
 
 # My Completed Projects
 
