@@ -36,7 +36,7 @@
 - Implementation of Lightway based VPN - [checkout here](https://github.com/sheharyaar/lagnos-vpn)
 - MoozikConenkt - [checkout here](https://github.com/sheharyaar/MoozikConnekt)
 
-# My Projects
+# My Completed Projects
 
 - Documentation and solutions for IIT KGP Internet problems - [checkout here](https://github.com/sheharyaar/iit-kgp-network)
 - Concurrent Web Server and REST in C - [Checkout here](https://github.com/sheharyaar/web-server-in-c)
