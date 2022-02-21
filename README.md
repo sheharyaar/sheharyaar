@@ -51,9 +51,9 @@
 - Peer 2 Peer based project
 - Interesting KGP wide project :)
 - BPF and IO_uring 
-- Containers and Hypervisors
 - Hyperledger and Block Chain
 - Web 3.0
+- Containers and Hypervisors
 
 
 Dream Projects
