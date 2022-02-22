@@ -35,6 +35,7 @@
 
 - Implementation of Lightway based VPN - [checkout here](https://github.com/sheharyaar/lagnos-vpn)
 - MoozikConnekt - [checkout here](https://github.com/sheharyaar/MoozikConnekt)
+- QUIC Implementation - [checkout here](https://github.com/sheharyaar/quic)
 
 # My Completed Projects
 
@@ -46,7 +47,6 @@
 
 # Projects Queue
 
-- QUIC Implementation
 - Video CDN over Internet using QUIC
 - Peer 2 Peer based project
 - Interesting KGP wide project :)
@@ -60,7 +60,7 @@ Dream Projects
 
 - Create a Read Dead Redemption Based web app
 - Create an Assassin's Creed Based web app
-- Craete a cross app for these ♥️
+- Create a cross app for these ♥️
 
 # My Presentations
 - Introduction to Kernel Module Programming (KMP) - [here](./KMP.pdf)
