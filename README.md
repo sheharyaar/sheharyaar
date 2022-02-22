@@ -39,9 +39,10 @@
 
 # My Completed Projects
 
-- Documentation and solutions for IIT KGP Internet problems - [checkout here](https://github.com/sheharyaar/iit-kgp-network)
 - Concurrent Web Server and REST in C - [Checkout here](https://github.com/sheharyaar/web-server-in-c)
 - Exif Data Extractor in C - [Checkout here](https://github.com/sheharyaar/exif-data-extractor)
+- Documentation and solutions for IIT KGP Internet problems - [checkout here](https://github.com/sheharyaar/iit-kgp-network)
+- Setting up Ptokax Direct Connect Server on Raspberry Pi - [checkout here](https://github.com/sheharyaar/ptokax)
 - SLAM (Source Live Audio Mixer) working Reboot - [checkout here](https://github.com/sheharyaar/SLAM-Reboot/)
 - Doorbell BOT in Python and Telegram Messaging - [Checkout here](https://github.com/sheharyaar/DoorBOT-Telegram)
 
