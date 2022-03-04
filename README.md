@@ -36,7 +36,7 @@
 - Implementation of Lightway based VPN - [checkout here](https://github.com/sheharyaar/lagnos-vpn)
 - MoozikConnekt - [checkout here](https://github.com/sheharyaar/MoozikConnekt)
 - QUIC Implementation - [checkout here](https://github.com/sheharyaar/quic)
-- Video CDN over Internet using QUIC - [checkout here](https://github.com/sheharyaar/Content-Delivery-Network)
+- Video CDN using DNS Load Balancer from scratch - [checkout here](https://github.com/sheharyaar/Content-Delivery-Network)
 
 # My Completed Projects
 
