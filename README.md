@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheharyaar&label=Profile%20views&color=0e75b6&&style=flat-square" alt="sheharyaar" /> </p>
 
+<!-------------------------------- // Commented out
+
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://lagnos.medium.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheharyaar48@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lagnos/)
@@ -12,7 +14,6 @@
 [![YouTube](https://img.shields.io/badge/lagn0s%20gaming-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCThLNTE_zdGUZg7ajouIk-g)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/lagnos_andras)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/8qjo103jdug4dxduuxgxf7k56?si=a7ccc1e9176f4a31)
-
 
 # Skills
 
@@ -29,9 +30,11 @@
 ![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) 
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
+--------------->
+
 My Resume is available - [here](./sheharyaar_resume.pdf)
 
-# Current Project
+# Current Projects
 
 - Implementation of Lightway based VPN - [checkout here](https://github.com/sheharyaar/lagnos-vpn)
 - MoozikConnekt - [checkout here](https://github.com/sheharyaar/MoozikConnekt)
