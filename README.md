@@ -29,7 +29,7 @@
 ![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) 
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-[Resume available here](./sheharyaar_resume.pdf)
+My Resume is available - [here](./sheharyaar_resume.pdf)
 
 # Current Project
 
