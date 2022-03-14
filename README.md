@@ -49,12 +49,10 @@
 
 # Projects Queue
 
-- Peer 2 Peer based project
-- Interesting KGP wide project :)
-- BPF and IO_uring 
+- Peer 2 Peer based project - (Next DC ¿¿)
+- BPF and IO_uring
 - Hyperledger and Block Chain
 - Web 3.0
-- Containers and Hypervisors
 
 
 Dream Projects
