@@ -57,13 +57,6 @@ My Resume is available - [here](./sheharyaar_resume.pdf)
 - Hyperledger and Block Chain
 - Web 3.0
 
-
-Dream Projects
-
-- Create a Read Dead Redemption Based web app
-- Create an Assassin's Creed Based web app
-- Create a cross app for these ♥️
-
 # My Presentations
 - Introduction to Kernel Module Programming (KMP) - [here](./KMP.pdf)
 - Memory Allocator in C - [here](./Memory%20Allocators.pdf)
@@ -72,6 +65,13 @@ Dream Projects
 
 - IIT KGP Network Repository - [https://iitkgp-network.netlify.app/](https://iitkgp-network.netlify.app/)
 - Github Web Page - [sheharyaar.github.io](https://sheharyaar.github.io/)
+
+# My Notes
+
+- C Programming - [here](https://github.com/sheharyaar/C-Programming-Cookbook)
+- Networking - [here](https://github.com/sheharyaar/Networking)
+- Linux Notes (both kernel and system) - [here](https://github.com/sheharyaar/Linux-Notes)
+- Blockchain Notes - [here](https://github.com/sheharyaar/Blockchain-Notes)
 
 # Contributions
 
