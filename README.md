@@ -34,6 +34,13 @@
 
 My Resume is available - [here](./sheharyaar_resume.pdf)
 
+# Study List
+
+- C Programming Notes - [here](https://github.com/sheharyaar/C-Programming-Cookbook)
+- Networking Notes - [here](https://github.com/sheharyaar/Networking)
+- Linux Notes (both kernel and system) - [here](https://github.com/sheharyaar/Linux-Notes)
+- Blockchain Notes - [here](https://github.com/sheharyaar/Blockchain-Notes)
+
 # Current Projects
 
 - Implementation of Lightway based VPN - [checkout here](https://github.com/sheharyaar/lagnos-vpn)
@@ -65,13 +72,6 @@ My Resume is available - [here](./sheharyaar_resume.pdf)
 
 - IIT KGP Network Repository - [https://iitkgp-network.netlify.app/](https://iitkgp-network.netlify.app/)
 - Github Web Page - [sheharyaar.github.io](https://sheharyaar.github.io/)
-
-# My Notes
-
-- C Programming - [here](https://github.com/sheharyaar/C-Programming-Cookbook)
-- Networking - [here](https://github.com/sheharyaar/Networking)
-- Linux Notes (both kernel and system) - [here](https://github.com/sheharyaar/Linux-Notes)
-- Blockchain Notes - [here](https://github.com/sheharyaar/Blockchain-Notes)
 
 # Contributions
 
