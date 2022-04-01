@@ -44,7 +44,6 @@ My Resume is available - [here](./sheharyaar_resume.pdf)
 # Current Projects
 
 - Implementation of Lightway based VPN - [checkout here](https://github.com/sheharyaar/lagnos-vpn)
-- MoozikConnekt - [checkout here](https://github.com/sheharyaar/MoozikConnekt)
 - QUIC Implementation - [checkout here](https://github.com/sheharyaar/quic)
 - Video CDN using DNS Load Balancer from scratch - [checkout here](https://github.com/sheharyaar/Content-Delivery-Network)
 
