@@ -74,4 +74,4 @@ My Resume is available - [here](./sheharyaar_resume.pdf)
 
 # Contributions
 
-[![Sheharyaar's github activity graph](https://activity-graph.herokuapp.com/graph?username=sheharyaar&theme=rogue)](https://github.com/sheharyaar#my-presentations)
+[![Sheharyaar's github activity graph](https://activity-graph.herokuapp.com/graph?username=sheharyaar&theme=rogue)](https://github.com/sheharyaar#contributions)
