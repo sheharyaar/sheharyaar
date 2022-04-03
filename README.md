@@ -40,6 +40,7 @@ My Resume is available - [here](./sheharyaar_resume.pdf)
 - Networking Notes - [here](https://github.com/sheharyaar/Networking)
 - Linux Notes (both kernel and system) - [here](https://github.com/sheharyaar/Linux-Notes)
 - Blockchain Notes - [here](https://github.com/sheharyaar/Blockchain-Notes)
+- Traffic Control / Packet Filteriing in Linux - [here](https://github.com/sheharyaar/traffic-control)
 
 # Current Projects
 
