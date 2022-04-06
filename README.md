@@ -57,14 +57,27 @@ My Resume is available - [here](./sheharyaar_resume.pdf)
 - SLAM (Source Live Audio Mixer) working Reboot - [checkout here](https://github.com/sheharyaar/SLAM-Reboot/)
 - Doorbell BOT in Python and Telegram Messaging - [Checkout here](https://github.com/sheharyaar/DoorBOT-Telegram)
 
+<!---
 # Projects Queue
 
 - Peer 2 Peer based project - (Next DC ¿¿)
 - BPF and IO_uring
 - Hyperledger and Block Chain
 - Web 3.0
+-->
+# My Achievements
+
+- Opensoft 2021-2022 IIT KGP : **Gold (1st Prize)** \
+About Opensoft - [here](https://wiki.metakgp.org/w/Open_Soft) \
+Repository : [Opensoft IIT KGP](https://github.com/sheharyaar/opensoft-iitkgp)
+
+- Demoday February \
+About Demoday - [here](https://wiki.metakgp.org/w/Metakgp:Demo_Days) \
+Repository : [IIT KGP Network Documentation](https://github.com/sheharyaar/iit-kgp-network)
+
 
 # My Presentations
+- IIT KGP Network ( Demo Day Presentation ) - [here](./iit-kgp-network.pdf)
 - Introduction to Kernel Module Programming (KMP) - [here](./KMP.pdf)
 - Memory Allocator in C - [here](./Memory%20Allocators.pdf)
 
