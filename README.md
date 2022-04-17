@@ -36,16 +36,22 @@ My Resume is available - [here](./sheharyaar_resume.pdf)
 
 # Study List
 
+### Linux Notes
+- Liinux Networking and Traffic Control - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/networking)
+- Linux Filesystem and IO - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/io-fs)
+- Linux Processes and Scheduling - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/processes)
+- Linux Virtualization - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/virtualisation)
+- Linux Performance Tooling (eBPF) - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/ebpf)
+
+### Other Notes
 - C Programming Notes - [here](https://github.com/sheharyaar/C-Programming-Cookbook)
-- Networking Notes - [here](https://github.com/sheharyaar/Networking)
-- Linux Notes (both kernel and system) - [here](https://github.com/sheharyaar/Linux-Notes)
 - Blockchain Notes - [here](https://github.com/sheharyaar/Blockchain-Notes)
-- Traffic Control / Packet Filteriing in Linux - [here](https://github.com/sheharyaar/traffic-control)
+
 
 # Current Projects
 
 - Implementation of Lightway based VPN - [checkout here](https://github.com/sheharyaar/lagnos-vpn)
-- QUIC Implementation - [checkout here](https://github.com/sheharyaar/quic)
+- QUIC Implementation - [checkout here](https://github.com/sheharyaar/Linux-Notes/blob/main/networking/)
 - Video CDN using DNS Load Balancer from scratch - [checkout here](https://github.com/sheharyaar/Content-Delivery-Network)
 
 # My Completed Projects
@@ -57,14 +63,6 @@ My Resume is available - [here](./sheharyaar_resume.pdf)
 - SLAM (Source Live Audio Mixer) working Reboot - [checkout here](https://github.com/sheharyaar/SLAM-Reboot/)
 - Doorbell BOT in Python and Telegram Messaging - [Checkout here](https://github.com/sheharyaar/DoorBOT-Telegram)
 
-<!---
-# Projects Queue
-
-- Peer 2 Peer based project - (Next DC ¿¿)
-- BPF and IO_uring
-- Hyperledger and Block Chain
-- Web 3.0
--->
 # My Achievements
 
 - Opensoft 2021-2022 IIT KGP : **Gold (1st Prize)** \
