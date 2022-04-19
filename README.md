@@ -53,20 +53,6 @@ My Resume is available - [here](./sheharyaar_resume.pdf)
 - [ ] Hyperledger
 - [ ] Whitepapers
 
-# Notes
-
-### Linux
-- Liinux Networking and Traffic Control - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/networking)
-- Linux Filesystem and IO - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/io-fs)
-- Linux Processes and Scheduling - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/processes)
-- Linux Virtualization - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/virtualisation)
-- Linux Performance Tooling (eBPF) - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/ebpf)
-
-### Other
-- C Programming Notes - [here](https://github.com/sheharyaar/C-Programming-Cookbook)
-- Blockchain Notes - [here](https://github.com/sheharyaar/Blockchain-Notes)
-
-
 # Current Projects
 
 - Implementation of Lightway based VPN - [checkout here](https://github.com/sheharyaar/lagnos-vpn)
@@ -102,6 +88,19 @@ Repository : [IIT KGP Network Documentation](https://github.com/sheharyaar/iit-k
 
 - IIT KGP Network Repository - [https://iitkgp-network.netlify.app/](https://iitkgp-network.netlify.app/)
 - Github Web Page - [sheharyaar.github.io](https://sheharyaar.github.io/)
+
+# Notes
+
+### Linux
+- Liinux Networking and Traffic Control - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/networking)
+- Linux Filesystem and IO - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/io-fs)
+- Linux Processes and Scheduling - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/processes)
+- Linux Virtualization - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/virtualisation)
+- Linux Performance Tooling (eBPF) - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/ebpf)
+
+### Other
+- C Programming Notes - [here](https://github.com/sheharyaar/C-Programming-Cookbook)
+- Blockchain Notes - [here](https://github.com/sheharyaar/Blockchain-Notes)
 
 # Contributions
 
