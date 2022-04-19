@@ -16,7 +16,7 @@ My Resume is available - [here](./sheharyaar_resume.pdf)
 - [ ] Google Summer Of Code as Contributor ( April - May )
 - [ ] Google Summer Of Code as Mentor ( April - May )
 
-### Linux and CLoud
+### Linux and Cloud
   
 - [ ] CNCF Mentorship Monthly 
 - [ ] LFX Networking 2022 ( April - May )
@@ -92,7 +92,7 @@ Repository : [IIT KGP Network Documentation](https://github.com/sheharyaar/iit-k
 # Notes
 
 ### Linux
-- Liinux Networking and Traffic Control - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/networking)
+- Linux Networking and Traffic Control - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/networking)
 - Linux Filesystem and IO - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/io-fs)
 - Linux Processes and Scheduling - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/processes)
 - Linux Virtualization - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/virtualisation)
