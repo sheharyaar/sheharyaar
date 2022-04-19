@@ -5,45 +5,64 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheharyaar&label=Profile%20views&color=0e75b6&&style=flat-square" alt="sheharyaar" /> </p>
 
-<!-------------------------------- // Commented out
-
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://lagnos.medium.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheharyaar48@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lagnos/)
-[![Twitter](https://img.shields.io/badge/lagnos-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_lagnos)
-[![YouTube](https://img.shields.io/badge/lagn0s%20gaming-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCThLNTE_zdGUZg7ajouIk-g)
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/lagnos_andras)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/8qjo103jdug4dxduuxgxf7k56?si=a7ccc1e9176f4a31)
-
-# Skills
-
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/sheharyaar/C-Programming-Cookbook/)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
-![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) 
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-
---------------->
-
 My Resume is available - [here](./sheharyaar_resume.pdf)
+
+# Bucket List
+
+## Summer of Codes (SoCs)
+
+### Development
+
+- [ ] Google Summer Of Code as Contributor ( April - May )
+- [ ] Google Summer Of Code as Mentor ( April - May )
+
+### Linux and CLoud
+  
+- [ ] CNCF Mentorship Monthly 
+- [ ] LFX Networking 2022 ( April - May )
+- [ ] LFX Cloud Mentorship ( Monthly )
+- [ ] Linux Kernel Bug Fixing Season ( Quarterly ?? )
+
+### Blockchain
+
+- [ ] Google Summer of Bitcoin 2022 ( April - May )
+- [ ] Hyperledger Mentorship 2022 (LFX Mentorship)
+
+## Competitions
+
+- [x] OpenSoft : **2021**
+- [ ] Inter IIT
+- [ ] Open IIT
 
 # Study List
 
-### Linux Notes
+## Linux Kernel
+    
+- [ ] Kernel Porgramming and Bug Fixing
+- [ ] BPF : Performance Tools
+- [ ] eBPF, tc and XDP : Traffic Control
+- [ ] IO_Uring
+
+## Cloud Networking
+
+- [ ] Service Mesh
+- [ ] Thanos and stuff under CNCF
+
+## Blockchain
+
+- [ ] Hyperledger
+- [ ] Whitepapers
+
+# Notes
+
+### Linux
 - Liinux Networking and Traffic Control - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/networking)
 - Linux Filesystem and IO - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/io-fs)
 - Linux Processes and Scheduling - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/processes)
 - Linux Virtualization - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/virtualisation)
 - Linux Performance Tooling (eBPF) - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/ebpf)
 
-### Other Notes
+### Other
 - C Programming Notes - [here](https://github.com/sheharyaar/C-Programming-Cookbook)
 - Blockchain Notes - [here](https://github.com/sheharyaar/Blockchain-Notes)
 
