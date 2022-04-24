@@ -7,6 +7,8 @@
 
 My Resume is available - [here](./sheharyaar_resume.pdf)
 
+Internship Diaries : [here](https://github.com/sheharyaar/internship-diaries)
+
 # Bucket List
 
 ## Summer of Codes (SoCs)
