@@ -102,6 +102,7 @@ Repository : [IIT KGP Network Documentation](https://github.com/sheharyaar/iit-k
 
 ### Other
 - C Programming Notes - [here](https://github.com/sheharyaar/C-Programming-Cookbook)
+- Kubernetes Notes - [here](https://github.com/sheharyaar/kubernetes-notes)
 - Blockchain Notes - [here](https://github.com/sheharyaar/Blockchain-Notes)
 
 # Contributions
