@@ -12,7 +12,7 @@ Internship Diaries : [here](https://github.com/sheharyaar/internship-diaries)
 <!-- Dropdowns ---------------------------------------------->
 
 <details>
-  <summary><h1>Bucket List </h1></summary>
+  <summary><h2>Bucket List </h2></summary>
 
 ## Summer of Codes (SoCs) 
 
@@ -42,7 +42,7 @@ Internship Diaries : [here](https://github.com/sheharyaar/internship-diaries)
 </details>
 
 <details>
-  <summary><h1> Study List</h1></summary>
+  <summary><h2> Study List</h2></summary>
 
 ## Linux Kernel
     
@@ -64,7 +64,7 @@ Internship Diaries : [here](https://github.com/sheharyaar/internship-diaries)
 </details>
 
 <details>
-  <summary><h1>Current Projects</h1></summary>
+  <summary><h2>Current Projects</h2></summary>
 
 - Implementation of Lightway based VPN - [checkout here](https://github.com/sheharyaar/lagnos-vpn)
 - QUIC Implementation - [checkout here](https://github.com/sheharyaar/Linux-Notes/blob/main/networking/)
@@ -73,7 +73,7 @@ Internship Diaries : [here](https://github.com/sheharyaar/internship-diaries)
 </details>
  
 <details>
-<summary><h1>My Completed Projects</summary></h1>
+<summary><h2>My Completed Projects</summary></h2>
 
 - Concurrent Web Server and REST in C - [Checkout here](https://github.com/sheharyaar/web-server-in-c)
 - Exif Data Extractor in C - [Checkout here](https://github.com/sheharyaar/exif-data-extractor)
@@ -85,7 +85,7 @@ Internship Diaries : [here](https://github.com/sheharyaar/internship-diaries)
 </details>
   
 <details>
-<summary><h1>My Achievements</summary></h1>
+<summary><h2>My Achievements</summary></h2>
 
 - Opensoft 2021-2022 IIT KGP : **Gold (1st Prize)** \
 About Opensoft - [here](https://wiki.metakgp.org/w/Open_Soft) \
@@ -98,7 +98,7 @@ Repository : [IIT KGP Network Documentation](https://github.com/sheharyaar/iit-k
 </details>
 
 <details>
-<summary><h1>My Presentations</summary></h1>
+<summary><h2>My Presentations</summary></h2>
 - IIT KGP Network ( Demo Day Presentation ) - [here](./iit-kgp-network.pdf)
 - Introduction to Kernel Module Programming (KMP) - [here](./KMP.pdf)
 - Memory Allocator in C - [here](./Memory%20Allocators.pdf)
@@ -106,7 +106,7 @@ Repository : [IIT KGP Network Documentation](https://github.com/sheharyaar/iit-k
 </details>
 
 <details>
-<summary><h1>My Deployments</summary></h1>
+<summary><h2>My Deployments</summary></h2>
 
 - IIT KGP Network Repository - [https://iitkgp-network.netlify.app/](https://iitkgp-network.netlify.app/)
 - Github Web Page - [sheharyaar.github.io](https://sheharyaar.github.io/)
@@ -114,7 +114,7 @@ Repository : [IIT KGP Network Documentation](https://github.com/sheharyaar/iit-k
 </details>
 
 <details>
-<summary><h1>Notes</summary></h1>
+<summary><h2>Notes</summary></h2>
 
 ### Linux
 - Linux Networking and Traffic Control - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/networking)
