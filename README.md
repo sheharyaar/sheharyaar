@@ -9,9 +9,12 @@ My Resume is available - [here](./sheharyaar_resume.pdf)
 
 Internship Diaries : [here](https://github.com/sheharyaar/internship-diaries)
 
-# Bucket List
+<!-- Dropdowns ---------------------------------------------->
 
-## Summer of Codes (SoCs)
+<details>
+  <summary><h1>Bucket List </h1></summary>
+
+## Summer of Codes (SoCs) 
 
 ### Development
 
@@ -29,14 +32,17 @@ Internship Diaries : [here](https://github.com/sheharyaar/internship-diaries)
 
 - [ ] Google Summer of Bitcoin 2022 ( April - May )
 - [ ] Hyperledger Mentorship 2022 (LFX Mentorship)
-
+    
 ## Competitions
 
 - [x] OpenSoft : **2021**
 - [ ] Inter IIT
 - [ ] Open IIT
 
-# Study List
+</details>
+
+<details>
+  <summary><h1> Study List</h1></summary>
 
 ## Linux Kernel
     
@@ -55,13 +61,19 @@ Internship Diaries : [here](https://github.com/sheharyaar/internship-diaries)
 - [ ] Hyperledger
 - [ ] Whitepapers
 
-# Current Projects
+</details>
+
+<details>
+  <summary><h1>Current Projects</h1></summary>
 
 - Implementation of Lightway based VPN - [checkout here](https://github.com/sheharyaar/lagnos-vpn)
 - QUIC Implementation - [checkout here](https://github.com/sheharyaar/Linux-Notes/blob/main/networking/)
 - Video CDN using DNS Load Balancer from scratch - [checkout here](https://github.com/sheharyaar/Content-Delivery-Network)
 
-# My Completed Projects
+</details>
+ 
+<details>
+<summary><h1>My Completed Projects</summary></h1>
 
 - Concurrent Web Server and REST in C - [Checkout here](https://github.com/sheharyaar/web-server-in-c)
 - Exif Data Extractor in C - [Checkout here](https://github.com/sheharyaar/exif-data-extractor)
@@ -70,7 +82,10 @@ Internship Diaries : [here](https://github.com/sheharyaar/internship-diaries)
 - SLAM (Source Live Audio Mixer) working Reboot - [checkout here](https://github.com/sheharyaar/SLAM-Reboot/)
 - Doorbell BOT in Python and Telegram Messaging - [Checkout here](https://github.com/sheharyaar/DoorBOT-Telegram)
 
-# My Achievements
+</details>
+  
+<details>
+<summary><h1>My Achievements</summary></h1>
 
 - Opensoft 2021-2022 IIT KGP : **Gold (1st Prize)** \
 About Opensoft - [here](https://wiki.metakgp.org/w/Open_Soft) \
@@ -80,18 +95,26 @@ Repository : [Opensoft IIT KGP](https://github.com/sheharyaar/opensoft-iitkgp)
 About Demoday - [here](https://wiki.metakgp.org/w/Metakgp:Demo_Days) \
 Repository : [IIT KGP Network Documentation](https://github.com/sheharyaar/iit-kgp-network)
 
+</details>
 
-# My Presentations
+<details>
+<summary><h1>My Presentations</summary></h1>
 - IIT KGP Network ( Demo Day Presentation ) - [here](./iit-kgp-network.pdf)
 - Introduction to Kernel Module Programming (KMP) - [here](./KMP.pdf)
 - Memory Allocator in C - [here](./Memory%20Allocators.pdf)
 
-# My Deployments
+</details>
+
+<details>
+<summary><h1>My Deployments</summary></h1>
 
 - IIT KGP Network Repository - [https://iitkgp-network.netlify.app/](https://iitkgp-network.netlify.app/)
 - Github Web Page - [sheharyaar.github.io](https://sheharyaar.github.io/)
 
-# Notes
+</details>
+
+<details>
+<summary><h1>Notes</summary></h1>
 
 ### Linux
 - Linux Networking and Traffic Control - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/networking)
@@ -105,6 +128,7 @@ Repository : [IIT KGP Network Documentation](https://github.com/sheharyaar/iit-k
 - Kubernetes Notes - [here](https://github.com/sheharyaar/kubernetes-notes)
 - Blockchain Notes - [here](https://github.com/sheharyaar/Blockchain-Notes)
 
+</details>
 # Contributions
 
 [![Sheharyaar's github activity graph](https://activity-graph.herokuapp.com/graph?username=sheharyaar&theme=rogue)](https://github.com/sheharyaar#contributions)
