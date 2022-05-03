@@ -98,16 +98,8 @@ Repository : [IIT KGP Network Documentation](https://github.com/sheharyaar/iit-k
 
 # Notes
 
-### Linux
-- Linux Networking and Traffic Control - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/networking)
-- Linux Filesystem and IO - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/io-fs)
-- Linux Processes and Scheduling - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/processes)
-- Linux Virtualization - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/virtualisation)
-- Linux Performance Tooling (eBPF) - [here](https://github.com/sheharyaar/Linux-Notes/tree/main/ebpf)
-
-### Other
+- Knowledge Base (Linux, Networking, Virtualisation, Performance Tooling, DevOps ) - [here](https://github.com/sheharyaar/knowledge-base)
 - C Programming Notes - [here](https://github.com/sheharyaar/C-Programming-Cookbook)
-- Kubernetes Notes - [here](https://github.com/sheharyaar/kubernetes-notes)
 - Blockchain Notes - [here](https://github.com/sheharyaar/Blockchain-Notes)
 
 
