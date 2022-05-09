@@ -101,7 +101,3 @@ Repository : [IIT KGP Network Documentation](https://github.com/sheharyaar/iit-k
 - [ ] Hyperledger
 - [ ] Whitepapers
 
-
-# Contributions
-
-[![Sheharyaar's github activity graph](https://activity-graph.herokuapp.com/graph?username=sheharyaar&theme=rogue)](https://github.com/sheharyaar#contributions)
