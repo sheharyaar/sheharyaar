@@ -1,7 +1,7 @@
 <head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </head>
-<p align="center"> <img src="sheharyaar-zoomed-cropped.png" alt="wall"/></p>
+<p align="center"> <img src="./banner-aesthetic.jpg" alt="wall"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheharyaar&label=Profile%20views&color=0e75b6&&style=flat-square" alt="sheharyaar" /> </p>
 
