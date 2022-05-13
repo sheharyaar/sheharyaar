@@ -3,8 +3,6 @@
 </head>
 <p align="center"> <img src="./banner-aesthetic.png" alt="wall"/></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheharyaar&label=Profile%20views&color=0e75b6&&style=flat-square" alt="sheharyaar" /> </p>
-
 ### My Resume : [here](./sheharyaar_resume.pdf)
 
 ### Internship Diaries : [here](https://github.com/sheharyaar/internship-diaries)
@@ -53,7 +51,7 @@ Repository : [IIT KGP Network Documentation](https://github.com/sheharyaar/iit-k
 - C Programming Notes - [here](https://github.com/sheharyaar/C-Programming-Cookbook)
 - Blockchain Notes - [here](https://github.com/sheharyaar/Blockchain-Notes)
 
-
+<!--
 # Bucket List 
 
 ## Summer of Codes (SoCs) 
@@ -100,4 +98,4 @@ Repository : [IIT KGP Network Documentation](https://github.com/sheharyaar/iit-k
 
 - [ ] Hyperledger
 - [ ] Whitepapers
-
+-->
