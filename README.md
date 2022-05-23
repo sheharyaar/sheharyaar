@@ -3,9 +3,12 @@
 </head>
 <p align="center"> <img src="./banner-aesthetic.png" alt="wall"/></p>
 
+Hey, There. This is Shehar Yaar. 
+
+<!--
+
 <a href="./sheharyaar_resume.pdf">My Resume</a>  
 <a href="https://github.com/sheharyaar/internship-diaries">Internship Diaries</a> 
-
 
 ### My Achievements
 
