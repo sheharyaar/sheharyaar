@@ -32,7 +32,7 @@
 
 - Knowledge Base (Linux, Networking, Virtualisation, Performance Tooling, DevOps ) - [here](https://github.com/sheharyaar/knowledge-base)
 - C Programming Notes - [here](https://github.com/sheharyaar/C-Programming-Cookbook)
-- Blockchain Notes - [here](https://github.com/sheharyaar/Blockchain-Notes)
+<!-- - Blockchain Notes - [here](https://github.com/sheharyaar/Blockchain-Notes) -->
 
 <!--
 # Bucket List 
