@@ -5,6 +5,29 @@
 
 Hey, There. This is Shehar Yaar. 
 
+```
+.
+├── Projects
+│   ├── lagnos-vpn
+│   ├── content-delivery-network
+│   ├── opensoft-iitkgp (2022)
+│   ├── iitkgp-network
+│   ├── SLAM Reboot
+│   ├── web-server-in-c
+│   ├── ptokax
+│   └── exif-data-extractor
+├── Notes
+│   ├── internship-diaries (currently private)
+│   ├── knowledge-base
+│   ├── blockchain-notes
+│   └── c-programming-cookbook
+└── Forks
+    ├── uinput (PR created for contribution)
+    ├── waydroid
+    ├── ptokax-scripts
+    └── openvpn-install
+```
+
 <!--
 
 <a href="./sheharyaar_resume.pdf">My Resume</a>  
