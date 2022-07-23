@@ -24,8 +24,7 @@ Hey, There. This is Shehar Yaar.
 └── Forks
     ├── uinput (PR created for contribution)
     ├── waydroid
-    ├── ptokax-scripts
-    └── openvpn-install
+    └── ptokax-scripts
 ```
 
 <!--
