@@ -22,7 +22,7 @@ Hey, There. This is Shehar Yaar.
 │   ├── blockchain-notes
 │   └── c-programming-cookbook
 └── Forks
-    ├── uinput (PR created for contribution)
+    ├── uinput (PR merged)
     ├── waydroid
     └── ptokax-scripts
 ```
