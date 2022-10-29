@@ -8,6 +8,8 @@ Hey, There. This is Shehar Yaar.
 ```
 .
 ├── Projects
+│   ├── dnslogger
+│   ├── go-supervisor
 │   ├── lagnos-vpn
 │   ├── content-delivery-network
 │   ├── opensoft-iitkgp (2022)
@@ -16,14 +18,9 @@ Hey, There. This is Shehar Yaar.
 │   ├── web-server-in-c
 │   ├── ptokax
 │   └── exif-data-extractor
-├── Notes
-│   ├── internship-diaries (currently private)
-│   ├── knowledge-base
-│   ├── blockchain-notes
-│   └── c-programming-cookbook
+|
 └── Forks
 |   ├── uinput (PR merged)
-|   ├── fluentd
 |   ├── KubeArmor
 |   └── ptokax-scripts
 |
