@@ -9,7 +9,6 @@ Hey, There. This is Shehar Yaar.
 .
 ├── Projects
 │   ├── dnslogger
-│   ├── go-supervisor
 │   ├── lagnos-vpn
 │   ├── content-delivery-network
 │   ├── opensoft-iitkgp (2022)
