@@ -3,14 +3,21 @@
 </head>
 <p align="center"> <img src="./banner-aesthetic.png" alt="wall"/></p>
 
-Hey, There. This is Shehar Yaar. 
+Hey, There. This is Shehar Yaar. A third-year undergraduate student at IIT Kharagpur.
+
+## Contributions to Open Source
+
+- `kubearmor/KubeArmor` : go vulnerability scan : [#899](https://github.com/kubearmor/KubeArmor/pull/899)
+- `bendahl/uinput` - add fetchSysPath : [#29](https://github.com/bendahl/uinput/pull/29)
+- `libssh/libssh-mirror` - Remove support for DSA Keys : [#231](https://gitlab.com/libssh/libssh-mirror/-/merge_requests/231) 
+
+## Repositories
 
 ```
 .
 ├── Projects
 │   ├── dnslogger
 │   ├── lagnos-vpn
-│   ├── content-delivery-network
 │   ├── opensoft-iitkgp (2022)
 │   ├── iitkgp-network
 │   ├── SLAM Reboot
