@@ -1,7 +1,7 @@
 <head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </head>
-<p align="center"> <img src="./banner-aesthetic-1.png" alt="wall"/></p>
+<p align="center"> <img src="./banner-aesthetic-1.jpg" alt="wall"/></p>
 
 Hey, There. This is Shehar Yaar. A third-year undergraduate student at IIT Kharagpur.
 
