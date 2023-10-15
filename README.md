@@ -5,7 +5,27 @@
 
 Hey there! This is Shehar Yaar. A fourth-year undergraduate student at IIT Kharagpur. <br/>
 I have knowledge and experience in Web Development, Software Development, Computer Networks and Distributed Systems. <br/>
-I am fascinated about Blockchain and IoT.  <br/>
+
+## Skills
+<table>
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td> C, Go, Javascript/Typescript, Python, Rust, Bash Scripting</td>
+  </tr>
+  <tr>
+    <td><b>Libraries and Frameworks</b></td>
+    <td> React, NodeJS, FastAPI, POSIX and Linux APIs</td>
+  </tr>
+  <tr>
+    <td><b>Core CSE Skill</b></td>
+    <td>Data Structures & Algorithms, Operating System Concepts and Inter-Process Communication (IPC),
+Computer Networks and Socket Programming, Distributed Systems, Blockchain</td>
+  </tr>
+  <tr>
+    <td><b>Cloud</b></td>
+    <td>AWS, Docker, NGINX, Kubernetes, Git</td>
+  </tr>
+</table>
 
 ## Contributions to Open Source
 
