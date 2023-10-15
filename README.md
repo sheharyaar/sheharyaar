@@ -14,7 +14,7 @@ I have knowledge and experience in Web Development, Software Development, Comput
   </tr>
   <tr>
     <td><b>Libraries and Frameworks</b></td>
-    <td> React, NodeJS, FastAPI, POSIX and Linux APIs</td>
+    <td> React, NodeJS, FastAPI, POSIX and Linux APIs, Golang Web Frameworks (Gorilla)</td>
   </tr>
   <tr>
     <td><b>Core CSE Skill</b></td>
