@@ -6,6 +6,12 @@
 Hey there! This is Shehar Yaar. A fourth-year undergraduate student at IIT Kharagpur. <br/>
 I have knowledge and experience in Web Development, Software Development, Computer Networks and Distributed Systems. <br/>
 
+<!--
+## Work Experience
+1. Software Engineer Intern at [Neverinstall](https://neverinstall.com/) - _1 year 8 months_ (March 2022 - October 2023)
+2. Software Engineer Intern at [Securethings](https://securethings.ai/) - _5 months_ (February 2023 - June 2023)
+-->
+
 ## Skills
 <table>
   <tr>
