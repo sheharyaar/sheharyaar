@@ -37,7 +37,7 @@ Computer Networks and Socket Programming, Distributed Systems, Blockchain</td>
 
 - Donated my research repo on IIT Kharagpur Network to MetaKGP : [metakgp/iit-kgp-network](https://github.com/metakgp/iit-kgp-network/)
 - add cache metrics for NGINX plus : [nginxinc/nginx-prometheus-exporter #540](https://github.com/nginxinc/nginx-prometheus-exporter/pull/540)
-- add govulncheck scan to Makefile : [kubearmor/kubearmor-client #262](https://github.com/kubearmor/kubearmor-client/pull/262)
-- go vulnerability scan : [kubearmor/KubeArmor #899](https://github.com/kubearmor/KubeArmor/pull/899)
+- kubearmor/kubearmor-client : [#388](https://github.com/kubearmor/kubearmor-client/pull/388) [#262](https://github.com/kubearmor/kubearmor-client/pull/262)
+- kubearmor/KubeArmor : [#899](https://github.com/kubearmor/KubeArmor/pull/899)
 - add fetchSysPath : [bendahl/uinput #29](https://github.com/bendahl/uinput/pull/29)
 - Remove support for DSA Keys : [libssh/libssh-mirror #231](https://gitlab.com/libssh/libssh-mirror/-/merge_requests/231) 
