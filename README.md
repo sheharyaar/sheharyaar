@@ -8,7 +8,7 @@ I have knowledge and experience in Web Development, Software Development, Comput
 
 <!--
 ## Work Experience
-1. Software Engineer Intern at [Neverinstall](https://neverinstall.com/) - _1 year 8 months_ (March 2022 - October 2023)
+1. Software Engineer Intern at [Neverinstall](https://neverinstall.com/) - _1 year 9 months_ (March 2022 - November 2023)
 2. Software Engineer Intern at [Securethings](https://securethings.ai/) - _5 months_ (February 2023 - June 2023)
 -->
 
