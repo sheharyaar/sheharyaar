@@ -25,7 +25,7 @@ I have knowledge and experience in Web Development, Software Development, Comput
   <tr>
     <td><b>Core CSE Skill</b></td>
     <td>Data Structures & Algorithms, Operating System Concepts and Inter-Process Communication (IPC),
-Computer Networks and Socket Programming, Distributed Systems, Blockchain</td>
+Computer Networks and Socket Programming, Distributed Systems</td>
   </tr>
   <tr>
     <td><b>Cloud</b></td>
