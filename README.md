@@ -16,7 +16,7 @@ I have knowledge and experience in Web Development, Software Development, Comput
 <table>
   <tr>
     <td><b>Programming Languages</b></td>
-    <td> C, Go, Javascript/Typescript, Python, Rust, Bash Scripting</td>
+    <td> C, Go, Javascript/Typescript, Python, Lua, Bash Scripting</td>
   </tr>
   <tr>
     <td><b>Libraries and Frameworks</b></td>
