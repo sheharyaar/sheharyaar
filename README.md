@@ -40,4 +40,5 @@ Computer Networks and Socket Programming, Distributed Systems</td>
 - kubearmor/kubearmor-client : [#388](https://github.com/kubearmor/kubearmor-client/pull/388) [#262](https://github.com/kubearmor/kubearmor-client/pull/262)
 - kubearmor/KubeArmor : [#899](https://github.com/kubearmor/KubeArmor/pull/899)
 - add fetchSysPath : [bendahl/uinput #29](https://github.com/bendahl/uinput/pull/29)
-- Remove support for DSA Keys : [libssh/libssh-mirror #231](https://gitlab.com/libssh/libssh-mirror/-/merge_requests/231) 
+- Remove support for DSA Keys : [libssh/libssh-mirror #231](https://gitlab.com/libssh/libssh-mirror/-/merge_requests/231)
+- cache original_nodes with nodes : [apache/apisix #10722](https://github.com/apache/apisix/pull/10722)
