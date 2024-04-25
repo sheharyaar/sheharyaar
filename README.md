@@ -37,11 +37,11 @@ Computer Networks and Socket Programming, Distributed Systems</td>
 
 **Linux Kernel**
 - **DeviceTree**
-	- [dt-bindings: usb: uhci: convert to dt schema](https://lore.kernel.org/all/1065c1f9-8149-4fae-8fd2-72bda0b5288f@linaro.org/)
-	- [ARM: dts: vt8500: replace "uhci" nodename with generic name "usb"](https://lore.kernel.org/all/f60aac7f-dbba-4cba-8bb6-302b5c911b8c@linaro.org/)
-	- [ASoC: dt-bindings: tegra20-ac97: convert to dt schema](https://lore.kernel.org/all/7560e32a-7142-4022-90dd-938777fea0d9@gmail.com/)
-	- [ARM: dts: tegra20-ac97: replace deprecated gpio suffix](https://lore.kernel.org/all/a9569709-9b98-46de-9ad3-f507ff224c00@kernel.org/)
-	- [ASoC: dt-bindings: tegra20-das: Convert to schema](https://lore.kernel.org/all/5dd56713-74fa-46bd-a76f-1839c1800e88@kernel.org/)
+	- _dt-bindings: usb: uhci: convert to dt schema_ -- [Lore Link](https://lore.kernel.org/all/20240423150550.91055-1-sheharyaar48@gmail.com) / [Commit Link](https://git.kernel.org/pub/scm/linux/kernel/git/gregkh/usb.git/commit/?h=usb-next&id=c859d300c5697ac8929a1c860f78e51c7bacf72d)
+	- _ARM: dts: vt8500: replace "uhci" nodename with generic name "usb"_ -- [Lore Link](https://lore.kernel.org/all/20240423150728.91527-1-sheharyaar48@gmail.com) / [Commit Link](#)
+	- _ASoC: dt-bindings: tegra20-ac97: convert to dt schema_ -- [Lore Link](https://lore.kernel.org/all/20240423115749.15786-1-sheharyaar48@gmail.com) / [Commit Link](https://git.kernel.org/pub/scm/linux/kernel/git/broonie/sound.git/commit/?id=701a22fd9ffaa409bbd45c2936870341b3ad9fdb)
+	- _ARM: dts: tegra20-ac97: replace deprecated gpio suffix_ -- [Lore Link](https://lore.kernel.org/all/20240423120630.16974-1-sheharyaar48@gmail.com) / [Commit Link](#)
+	- _ASoC: dt-bindings: tegra20-das: Convert to schema_ -- [Lore Link](https://lore.kernel.org/all/20240418163326.58365-1-sheharyaar48@gmail.com) / [Commit Link](https://git.kernel.org/pub/scm/linux/kernel/git/broonie/sound.git/commit/?id=ed37d240d03e84d09d4d2a771fda419da4308d17)
 
 **Apache KVRocks**
 - Add BIT support to BITPOS :  [#2170](https://github.com/apache/kvrocks/pull/2170)
