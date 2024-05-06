@@ -68,3 +68,11 @@ Computer Networks and Socket Programming, Distributed Systems</td>
   
 **bendahl/uinput**
 - add fetchSysPath [#29](https://github.com/bendahl/uinput/pull/29)
+
+## My notes and blogs
+
+1. Kernel Notes - [Gitbook](https://lagnos.gitbook.io/linux-kernel-notes) (_ongoing_)
+2. Docker Networking notes - [Gist](https://gist.github.com/sheharyaar/2b26c84787aa99ff977d25157ea215cf) (_ongoing_)
+3. Blockchain Resources - [Gist](https://gist.github.com/sheharyaar/368531214b81bd0fb2f3bcf5e6a0a977)
+4. Frontend Notes (React + CSS) - [Gist](https://gist.github.com/sheharyaar/4128e7514c6e02047a9fb90226723de9)
+5. Notes on Golang concurrency - [Gist](https://gist.github.com/sheharyaar/9359af98554d684ec5370aba19a1b10d)
