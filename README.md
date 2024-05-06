@@ -76,3 +76,4 @@ Computer Networks and Socket Programming, Distributed Systems</td>
 3. Blockchain Resources - [Gist](https://gist.github.com/sheharyaar/368531214b81bd0fb2f3bcf5e6a0a977)
 4. Frontend Notes (React + CSS) - [Gist](https://gist.github.com/sheharyaar/4128e7514c6e02047a9fb90226723de9)
 5. Notes on Golang concurrency - [Gist](https://gist.github.com/sheharyaar/9359af98554d684ec5370aba19a1b10d)
+6. IIT Kharagpur Network Analysis - [Netlify](https://iitkgp-network.netlify.app/)
