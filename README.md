@@ -72,9 +72,10 @@ Computer Networks and Socket Programming, Distributed Systems</td>
 ## My notes and blogs
 
 1. Kernel Notes - [Gitbook](https://lagnos.gitbook.io/linux-kernel-notes) (_ongoing_)
-2. Lua and Lua C API notes for GSoC 2024 project - [Gist](https://gist.github.com/sheharyaar/946eb2850ccb10aa54d80cf4351981b8) (_ongoing_)
-3. Docker Networking notes - [Gist](https://gist.github.com/sheharyaar/2b26c84787aa99ff977d25157ea215cf) (_ongoing_)
-4. Blockchain Resources - [Gist](https://gist.github.com/sheharyaar/368531214b81bd0fb2f3bcf5e6a0a977)
-5. Frontend Notes (React + CSS) - [Gist](https://gist.github.com/sheharyaar/4128e7514c6e02047a9fb90226723de9)
-6. Notes on Golang concurrency - [Gist](https://gist.github.com/sheharyaar/9359af98554d684ec5370aba19a1b10d)
-7. IIT Kharagpur Network Analysis - [Netlify](https://iitkgp-network.netlify.app/)
+2. Converting and testing devicetree bindings to yaml - [Gist](https://gist.github.com/sheharyaar/250cb215a79634129537164846e7f4c7)
+3. Lua and Lua C API notes for GSoC 2024 project - [Gist](https://gist.github.com/sheharyaar/946eb2850ccb10aa54d80cf4351981b8) (_ongoing_)
+4. Docker Networking notes - [Gist](https://gist.github.com/sheharyaar/2b26c84787aa99ff977d25157ea215cf) (_ongoing_)
+5. Blockchain Resources - [Gist](https://gist.github.com/sheharyaar/368531214b81bd0fb2f3bcf5e6a0a977)
+6. Frontend Notes (React + CSS) - [Gist](https://gist.github.com/sheharyaar/4128e7514c6e02047a9fb90226723de9)
+7. Notes on Golang concurrency - [Gist](https://gist.github.com/sheharyaar/9359af98554d684ec5370aba19a1b10d)
+8. IIT Kharagpur Network Analysis - [Netlify](https://iitkgp-network.netlify.app/)
