@@ -42,6 +42,8 @@ Computer Networks and Socket Programming, Distributed Systems</td>
 	- _ASoC: dt-bindings: tegra20-ac97: convert to dt schema_ -- [Lore Link](https://lore.kernel.org/all/20240423115749.15786-1-sheharyaar48@gmail.com) / [Commit Link](https://git.kernel.org/pub/scm/linux/kernel/git/broonie/sound.git/commit/?id=701a22fd9ffaa409bbd45c2936870341b3ad9fdb)
 	- _ARM: dts: tegra20-ac97: replace deprecated gpio suffix_ -- [Lore Link](https://lore.kernel.org/all/20240423120630.16974-1-sheharyaar48@gmail.com) / [Commit Link](#)
 	- _ASoC: dt-bindings: tegra20-das: Convert to schema_ -- [Lore Link](https://lore.kernel.org/all/20240418163326.58365-1-sheharyaar48@gmail.com) / [Commit Link](https://git.kernel.org/pub/scm/linux/kernel/git/broonie/sound.git/commit/?id=ed37d240d03e84d09d4d2a771fda419da4308d17)
+ - **BPF**
+	- _bpf: Fix order of args in call to bpf_map_kvcalloc_ -- [Lore Link](https://lore.kernel.org/bpf/20240516072411.42016-1-sheharyaar48@gmail.com/) / [Commit Link](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/commit/?id=6f130e4d4a5f7174f98300376f3994817ad7e21c)
 
 **Apache KVRocks**
 - Add BIT support to BITPOS :  [#2170](https://github.com/apache/kvrocks/pull/2170)
