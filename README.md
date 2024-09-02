@@ -3,7 +3,7 @@
 </head>
 <p align="center"> <img src="./banner-tatakae.jpeg" alt="wall"/></p>
 
-Hey there! This is Shehar Yaar. A fourth-year undergraduate student at IIT Kharagpur. <br/>
+Hey there! This is Shehar Yaar. A fifth-year (as of 2024-25) undergraduate student at IIT Kharagpur. <br/>
 I have knowledge and experience in Web Development, Software Development, Computer Networks and Distributed Systems. <br/>
 
 <!--
