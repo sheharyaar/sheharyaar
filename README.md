@@ -20,7 +20,7 @@ I have knowledge and experience in Web Development, Software Development, Comput
   </tr>
   <tr>
     <td><b>Libraries and Frameworks</b></td>
-    <td> React, NodeJS, FastAPI, POSIX and Linux APIs, Golang Web Frameworks (Gorilla)</td>
+    <td> React, NodeJS, FastAPI, POSIX and Linux APIs</td>
   </tr>
   <tr>
     <td><b>Core CSE Skill</b></td>
@@ -29,7 +29,7 @@ Computer Networks and Socket Programming, Distributed Systems</td>
   </tr>
   <tr>
     <td><b>Cloud</b></td>
-    <td>AWS, Docker, NGINX, Kubernetes, Git</td>
+    <td>Docker, NGINX, Git</td>
   </tr>
 </table>
 
