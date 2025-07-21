@@ -3,35 +3,7 @@
 </head>
 <p align="center"> <img src="./banner-tatakae.jpeg" alt="wall"/></p>
 
-Hey there! This is Mohammad Shehar Yaar Tausif. A final-year (as of 2024-25) undergraduate student at IIT Kharagpur. <br/>
-I have knowledge and experience in Web Development, Software Development, Computer Networks and Distributed Systems. <br/>
-
-<!--
-## Work Experience
-1. Software Engineer Intern at [Neverinstall](https://neverinstall.com/) - _1 year 9 months_ (March 2022 - November 2023)
-2. Software Engineer Intern at [Securethings](https://securethings.ai/) - _5 months_ (February 2023 - June 2023)
--->
-
-## Skills
-<table>
-  <tr>
-    <td><b>Programming Languages</b></td>
-    <td> C, Go, Javascript/Typescript, Python, Lua, Bash Scripting</td>
-  </tr>
-  <tr>
-    <td><b>Libraries and Frameworks</b></td>
-    <td> React, NodeJS, FastAPI, POSIX and Linux APIs</td>
-  </tr>
-  <tr>
-    <td><b>Core CSE Skill</b></td>
-    <td>Data Structures & Algorithms, Operating System Concepts and Inter-Process Communication (IPC),
-Computer Networks and Socket Programming, Distributed Systems</td>
-  </tr>
-  <tr>
-    <td><b>Cloud</b></td>
-    <td>Docker, NGINX, Git</td>
-  </tr>
-</table>
+Hey there! This is Mohammad Shehar Yaar Tausif. A fresh graduate from IIT Kharagpur (2025). <br/>
 
 ## Contributions to Open Source
 
