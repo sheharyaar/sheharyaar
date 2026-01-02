@@ -3,9 +3,9 @@
 </head>
 <p align="center"> <img src="./banner-tatakae.jpeg" alt="wall"/></p>
 
-Hey there! This is Mohammad Shehar Yaar Tausif. A fresh graduate from IIT Kharagpur (2025). <br/>
+Hi Visitor ! Thank you for visiting my Github page ❤️
 
-## Contributions to Open Source
+## My top contributions to Open Source
 
 **Linux Kernel**
 - **DeviceTree**
@@ -29,20 +29,20 @@ Hey there! This is Mohammad Shehar Yaar Tausif. A fresh graduate from IIT Kharag
   
 **NGINX**
 - add cache metrics for NGINX plus [#540](https://github.com/nginxinc/nginx-prometheus-exporter/pull/540)
-  
-**Kubearmor**
-- ignore cluster access with save flag [#388](https://github.com/kubearmor/kubearmor-client/pull/388)
-- add govulncheck scan to Makefile [#262](https://github.com/kubearmor/kubearmor-client/pull/262)
-- go vulnerability scan [#899](https://github.com/kubearmor/KubeArmor/pull/899)
-  
-**MetaKGP**
-- Donated my research repo on IIT Kharagpur Network to MetaKGP : [https://github.com/metakgp/iit-kgp-network/](https://github.com/metakgp/iit-kgp-network/)
-  
-**libssh**
-- remove support for DSA Keys [#231](https://gitlab.com/libssh/libssh-mirror/-/merge_requests/231)
-  
-**bendahl/uinput**
-- add fetchSysPath [#29](https://github.com/bendahl/uinput/pull/29)
+
+## My Top Projects
+
+1. [Sherlock](https://github.com/sheharyaar/sherlock) - A collection of 3 tools built from scratch: a system call tracer, a library tracer and a debugger.
+2. [Container Runtime](https://github.com/sheharyaar/container-runtime) - A simple low level container runtime that takes in a filesystem and creates a container shell using Linux C APIs.
+
+## My Playgrounds
+
+These are repos where I play around with different concepts.
+
+1. [Systems, Kernel and Assembly](https://github.com/sheharyaar/systems-kernel-asm) - I tinker with assembly code, ABIs and other system programming concepts. Usually low-level (kernel / systems) level.
+2. [Byte Sized Programs](https://github.com/sheharyaar/byte-sized-programs) - These contain small snippets of code that can be run to demonstrate a particular concept. Usually userspace concepts like compilers, system calls and programming language features.
+3. [Distributed Systems Challenges](https://github.com/sheharyaar/distributed-systems-challenges) - Contains my solutions to fly.io challenges and other concepts in distributed systems.
+4. Linux Networking Playground (Upcoming) - Will contain concepts related to networking in Linux at both the Kernel level and the userspace level.
 
 ## My notes and blogs
 
