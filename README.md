@@ -39,18 +39,19 @@ Hi Visitor ! Thank you for visiting my Github page ❤️
 
 These are repos where I play around with different concepts.
 
-1. [Systems, Kernel and Assembly](https://github.com/sheharyaar/systems-kernel-asm) - I tinker with assembly code, ABIs and other system programming concepts. Usually low-level (kernel / systems) level.
+1. [Systems, Kernel and Assembly](https://github.com/sheharyaar/kernel-systems-playground) - I tinker with assembly code, ABIs and other system programming concepts. Usually low-level (kernel / systems) level.
 2. [Byte Sized Programs](https://github.com/sheharyaar/byte-sized-programs) - These contain small snippets of code that can be run to demonstrate a particular concept. Usually userspace concepts like compilers, system calls and programming language features.
 3. [Distributed Systems Challenges](https://github.com/sheharyaar/distributed-systems-challenges) - Contains my solutions to fly.io challenges and other concepts in distributed systems.
 4. Linux Networking Playground (Upcoming) - Will contain concepts related to networking in Linux at both the Kernel level and the userspace level.
 
 ## My notes and blogs
 
-1. Kernel Notes - [Gitbook](https://lagnos.gitbook.io/linux-kernel-notes) (_ongoing_)
-2. Converting and testing devicetree bindings to yaml - [Gist](https://gist.github.com/sheharyaar/250cb215a79634129537164846e7f4c7)
-3. Lua and Lua C API notes for GSoC 2024 project - [Gist](https://gist.github.com/sheharyaar/946eb2850ccb10aa54d80cf4351981b8) (_ongoing_)
-4. Docker Networking notes - [Gist](https://gist.github.com/sheharyaar/2b26c84787aa99ff977d25157ea215cf) (_ongoing_)
-5. Blockchain Resources - [Gist](https://gist.github.com/sheharyaar/368531214b81bd0fb2f3bcf5e6a0a977)
-6. Frontend Notes (React + CSS) - [Gist](https://gist.github.com/sheharyaar/4128e7514c6e02047a9fb90226723de9)
-7. Notes on Golang concurrency - [Gist](https://gist.github.com/sheharyaar/9359af98554d684ec5370aba19a1b10d)
-8. IIT Kharagpur Network Analysis - [Netlify](https://iitkgp-network.netlify.app/)
+1. Lately, I have been writing [blogs](https://www.sheharyaar.in/blog) and [notes](https://www.sheharyaar.in/notes/) on my personal website.
+2. Kernel Notes - [Gitbook](https://lagnos.gitbook.io/linux-kernel-notes) (_ongoing_)
+3. Converting and testing devicetree bindings to yaml - [Gist](https://gist.github.com/sheharyaar/250cb215a79634129537164846e7f4c7)
+4. Lua and Lua C API notes for GSoC 2024 project - [Gist](https://gist.github.com/sheharyaar/946eb2850ccb10aa54d80cf4351981b8) (_ongoing_)
+5. Docker Networking notes - [Gist](https://gist.github.com/sheharyaar/2b26c84787aa99ff977d25157ea215cf) (_ongoing_)
+6. Blockchain Resources - [Gist](https://gist.github.com/sheharyaar/368531214b81bd0fb2f3bcf5e6a0a977)
+7. Frontend Notes (React + CSS) - [Gist](https://gist.github.com/sheharyaar/4128e7514c6e02047a9fb90226723de9)
+8. Notes on Golang concurrency - [Gist](https://gist.github.com/sheharyaar/9359af98554d684ec5370aba19a1b10d)
+9. IIT Kharagpur Network Analysis - [Netlify](https://iitkgp-network.netlify.app/)
