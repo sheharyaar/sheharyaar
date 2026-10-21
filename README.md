@@ -1,7 +1,7 @@
 <head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </head>
-<p align="center"> <img src="./banner-tatakae.jpeg" alt="wall"/></p>
+<!-- <p align="center"> <img src="./banner-tatakae.jpeg" alt="wall"/></p> -->
 
 Hi Visitor ! Thank you for visiting my Github page ❤️
 
